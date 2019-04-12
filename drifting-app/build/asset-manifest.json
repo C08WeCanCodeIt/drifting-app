@@ -1,14 +1,14 @@
 {
-  "main.css": "/drifting-app/static/css/main.51ce3962.chunk.css",
-  "main.js": "/drifting-app/static/js/main.d22f23e5.chunk.js",
-  "main.js.map": "/drifting-app/static/js/main.d22f23e5.chunk.js.map",
-  "runtime~main.js": "/drifting-app/static/js/runtime~main.32e38ed2.js",
-  "runtime~main.js.map": "/drifting-app/static/js/runtime~main.32e38ed2.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/drifting-app/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/drifting-app/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/drifting-app/index.html",
-  "precache-manifest.86774740795fb44f316405cc44e2c8df.js": "/drifting-app/precache-manifest.86774740795fb44f316405cc44e2c8df.js",
-  "service-worker.js": "/drifting-app/service-worker.js",
-  "static/css/main.51ce3962.chunk.css.map": "/drifting-app/static/css/main.51ce3962.chunk.css.map",
-  "static/media/logo.svg": "/drifting-app/static/media/logo.5d5d9eef.svg"
+  "main.css": "/drifting-app/drifting-app/build/static/css/main.51ce3962.chunk.css",
+  "main.js": "/drifting-app/drifting-app/build/static/js/main.2224c513.chunk.js",
+  "main.js.map": "/drifting-app/drifting-app/build/static/js/main.2224c513.chunk.js.map",
+  "runtime~main.js": "/drifting-app/drifting-app/build/static/js/runtime~main.c912c28f.js",
+  "runtime~main.js.map": "/drifting-app/drifting-app/build/static/js/runtime~main.c912c28f.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/drifting-app/drifting-app/build/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/drifting-app/drifting-app/build/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/drifting-app/drifting-app/build/index.html",
+  "precache-manifest.cc8623d6f40d02b94caa38db6464dda3.js": "/drifting-app/drifting-app/build/precache-manifest.cc8623d6f40d02b94caa38db6464dda3.js",
+  "service-worker.js": "/drifting-app/drifting-app/build/service-worker.js",
+  "static/css/main.51ce3962.chunk.css.map": "/drifting-app/drifting-app/build/static/css/main.51ce3962.chunk.css.map",
+  "static/media/logo.svg": "/drifting-app/drifting-app/build/static/media/logo.5d5d9eef.svg"
 }

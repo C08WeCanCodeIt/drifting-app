@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/drifting-app/precache-manifest.cf4c373fa7a6e9e99f3fff43e36c3a6b.js"
+  "/drifting-app/drifting-app/build/precache-manifest.d951ee1606978b91ad45b614860388bc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/drifting-app/index.html", {
+workbox.routing.registerNavigationRoute("/drifting-app/drifting-app/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

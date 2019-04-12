@@ -6,6 +6,7 @@
 .pnp.js
 /servers/bottles/node_modules
 /drifting-app/node_modules
+/drifting-app-alt
 
 # testing
 /coverage

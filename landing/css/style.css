@@ -38,7 +38,7 @@ Import Google Fonts
 
 body {
   margin: 0px;
-    font-family: "Open Sans", Sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 h1,
@@ -49,12 +49,12 @@ h5,
 h6 {
 font-weight: 300;
     letter-spacing: 0.4px;
-    font-family: "Open Sans", Sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #232323;
 }
 
-p {
-    font-family: 'Roboto', sans-serif;
+p, li {
+    font-family: 'Raleway', sans-serif;
     font-size: 15px;
     font-weight: 300;
 	line-height: 23px;

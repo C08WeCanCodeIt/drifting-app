@@ -100,12 +100,12 @@ section {
 	border-color: transparent
 }
 .navbar-default .navbar-brand {
-	color: #fff;
+	color: #84C8FF;
 	font-family: "Montserrat",sans-serif;
     padding: 0px;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
-	color: #84C8FF
+	color: #fed136
 }
 .navbar-default .navbar-collapse {
 	border-color: rgba(255,255,255,.02)
@@ -125,8 +125,8 @@ section {
 	text-transform: uppercase;
 	font-weight: 400;
 	letter-spacing: 1px;
-    color:#fff;
-    text-shadow: 2px 2px #808080;
+    color:#84C8FF;
+    /*text-shadow: 2px 2px #808080;*/
 }
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
 	color: #fed136;
@@ -203,7 +203,8 @@ header {
 }
 
 #header-overlay {
-    background-color: rgba(145, 220, 255, 0.44);
+    /*background-color: rgba(235, 249, 255, 0.73);*/
+    background-image: linear-gradient(white, rgba(189, 221, 255, 0.62));
 }
 
 
@@ -214,7 +215,7 @@ header .intro-text {
 
 @media (min-width: 768px) {
 	header .intro-text {
-	    padding-top: 300px;
+	    padding-top: 100px;
 	    padding-bottom: 200px;
 	}
 }
@@ -826,3 +827,8 @@ ul {
         margin: auto;
     }
   }
+
+.intro-heading img {
+    margin-top: 10vh;
+    width: 60vw;
+}
